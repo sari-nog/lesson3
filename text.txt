@@ -1,2 +1,4 @@
 hello!
+this is changed in feature1
 this line added in feature2
+
